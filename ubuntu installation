@@ -1,0 +1,7 @@
+after a long way i find the solution
+the slution is to install 
+xml curl ...
+to install them just
+install the normal way 
+sudo apt-get install php-curl php-xml php-...
+just like that add the athere thing after the php-
